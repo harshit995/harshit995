@@ -51,7 +51,11 @@
 <p align = "center">
      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harshit995&theme=tokyonight" align = "center">
 </p>
-
+<p align="center">
+<a href="https://github.com/harshit995/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=harshit995&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
 <!--
 **harshit995/harshit995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
