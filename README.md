@@ -56,7 +56,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=harshit995&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
-https://github-readme-streak-stats.herokuapp.com/?user=harshit995&theme=vision-friendly-dark](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit995&theme=dark](https://git.io/streak-stats)">
 
 
 <!--
