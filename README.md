@@ -56,9 +56,9 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=harshit995&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit995&theme=dark](https://git.io/streak-stats)">
-
-
+<p align = "center">
+     <img src = "https://github-readme-streak-stats.herokuapp.com?user=harshit995&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" align = "center">
+ </p>
 <!--
 **harshit995/harshit995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
