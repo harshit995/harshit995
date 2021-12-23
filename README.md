@@ -47,14 +47,14 @@
 <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
   <br/>
  <p align = "left">
-     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aniket7515&theme=radical" align = "left" width="40%">
+     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=harshit995&theme=tokyonight" align = "left" width="40%">
 </p>
 <p align = "right">
-   <img src = "https://github-readme-stats.vercel.app/api?username=aniket7515&show_icons=true&theme=radical" align = "right" width="55%">
+   <img src = "https://github-readme-stats.vercel.app/api?username=harshit995&show_icons=true&theme=tokyonight" align = "right" width="55%">
 </p>
 
 <p align = "center">
-     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "center" width="50%">
+     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harshit995&theme=tokyonight" align = "center" width="50%">
 </p>
   </summary>
 <p align="center">
@@ -62,9 +62,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=harshit995&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
-<p align = "center">
-     <img src = "https://github-readme-streak-stats.herokuapp.com?user=harshit995&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" align = "center">
- </p>
+
 <!--
 **harshit995/harshit995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
