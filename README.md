@@ -46,12 +46,16 @@
 
 <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
   <br/>
- <div align='center' width="1rem">
+ <p align = "left">
+     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aniket7515&theme=radical" align = "left" width="40%">
+</p>
+<p align = "right">
+   <img src = "https://github-readme-stats.vercel.app/api?username=aniket7515&show_icons=true&theme=radical" align = "right" width="55%">
+</p>
 
-    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=harshit995&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=60C376" alt="Harshit's Github Stats" />
-  </div>
-  <a href="https://github.com/harshit995/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit995&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="300px"/></a>
-  <br/>
+<p align = "center">
+     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=tokyonight" align = "center" width="50%">
+</p>
   </summary>
 <p align="center">
 <a href="https://github.com/harshit995/github-readme-activity-graph">
