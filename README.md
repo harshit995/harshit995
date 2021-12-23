@@ -46,9 +46,10 @@
 
 <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
   <br/>
- 
-    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=harshit995&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=60C376" alt="Harshit's Github Stats" />
+ <div align='center' width="1rem">
 
+    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=harshit995&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&title_color=60C376" alt="Harshit's Github Stats" />
+  </div>
   <a href="https://github.com/harshit995/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit995&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="300px"/></a>
   <br/>
   </summary>
