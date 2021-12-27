@@ -47,16 +47,17 @@
 
 <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
   <br/>
- <p align = "left">
+  <p align = "left">
+     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harshit995&theme=tokyonight" align = "center" width="30%">
+</p>
+ <p align = "right">
      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=harshit995&theme=tokyonight" align = "left" width="40%">
 </p>
 <p align = "right">
    <img src = "https://github-readme-stats.vercel.app/api?username=harshit995&show_icons=true&theme=tokyonight" align = "right" width="55%">
 </p>
 
-<p align = "center">
-     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harshit995&theme=tokyonight" align = "center" width="50%">
-</p>
+
   </summary>
 <p align="center">
 <a href="https://github.com/harshit995/github-readme-activity-graph">
