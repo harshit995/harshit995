@@ -11,7 +11,7 @@
 - Looking forward to collaborate on **Open Source Contributions**
 
 
-- 🌱 I’m currently learning NodeJs 
+- 🌱 I’m currently learning Next.js 
 
 - 📫 Reach 👇<br>
 
@@ -50,15 +50,12 @@
   <br/>
   <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshit995&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=harshit995&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F2D3D&stroke=1CADFB&ring=1CADFB&fire=1CADFB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1CADFB&border=DDDDDD00&sideLabels=DDDDDD&dates=CCCCCC" />
-  </p>
-
-
+     <tr><td><img  width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit995&theme=tokyonight"  display=block width=100% height=auto alt="1" ></td></tr>
+<!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=harshit995&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F2D3D&stroke=1CADFB&ring=1CADFB&fire=1CADFB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1CADFB&border=DDDDDD00&sideLabels=DDDDDD&dates=CCCCCC" />
+  </p> -->
+ <td><img  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit995&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
   </summary>
 <p align="center">
-<a href="https://github.com/harshit995/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=harshit995&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
 </p>
 
 <!--
